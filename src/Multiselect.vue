@@ -48,7 +48,7 @@
           :name="name"
           :id="id"
           type="text"
-          autocomplete="nope"
+          autocomplete="off"
           :placeholder="placeholder"
           :style="inputStyle"
           :value="search"
